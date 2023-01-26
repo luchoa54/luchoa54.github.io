@@ -1,20 +1,18 @@
-{
-  "cards": [
-    {
-      "id": 1,
-      "nameCharacter": "Guaraná"
-    },
-    {
-      "id": 2,
-      "nameCharacter": "Peixe"
-    },
-    {
-      "id": 3,
-      "nameCharacter": "Gelo"
-    },
-    {
-      "id": 4,
-      "nameCharacter": "Bahira"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "nameCharacter": "Guaraná"
+  },
+  {
+    "id": 2,
+    "nameCharacter": "Peixe"
+  },
+  {
+    "id": 3,
+    "nameCharacter": "Gelo"
+  },
+  {
+    "id": 4,
+    "nameCharacter": "Bahira"
+  }
+]
